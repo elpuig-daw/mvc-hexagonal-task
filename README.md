@@ -1,6 +1,6 @@
 
 ## Exercici:
-### Aplicació de Reserva de Llibres de Biblioteca (Patró MVC)
+### Aplicació de Reserva de Llibres de Biblioteca (Patró MVC i Hexagonal)
 
 Crea una aplicació de consola en Java que permeti a un usuari reservar un llibre d’una biblioteca. L’aplicació ha de seguir l’arquitectura MVC (Model-Vista-Controlador).
 Requisits:
