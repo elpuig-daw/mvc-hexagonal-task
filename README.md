@@ -16,8 +16,7 @@ Requisits:
     - Reservation per encapsular la reserva.
 - En MVC el paquet view s’encarrega de la interacció amb l’usuari (entrada i sortida).
 - En MVC el paquet controller coordina el flux entre la vista i el model.
-- Extres:
-    - Permet que l’usuari pugui reservar més d’un llibre en una mateixa sessió.
-    - En MVC crea un classe ReservationService amb un mètode que faci la reserva del llibre.  
-    - En hexagonal implementa també un sortida de les reserva cap a un fitxer amés de la consola.
+- Permet que l’usuari pugui reservar més d’un llibre.
+- Crea un classe ReservationService amb un mètode que faci la reserva del llibre.  
+- En hexagonal implementa un adapter per desar les reserves en un List 
 
